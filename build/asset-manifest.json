@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8007d6fe.css",
+    "main.js": "/static/js/main.092ed85e.js",
+    "static/css/586.f0665f31.chunk.css": "/static/css/586.f0665f31.chunk.css",
+    "static/js/586.143291da.chunk.js": "/static/js/586.143291da.chunk.js",
+    "static/js/787.9f7888fd.chunk.js": "/static/js/787.9f7888fd.chunk.js",
+    "static/js/28.c7f48271.chunk.js": "/static/js/28.c7f48271.chunk.js",
+    "static/js/597.0eac7618.chunk.js": "/static/js/597.0eac7618.chunk.js",
+    "static/js/765.753e6792.chunk.js": "/static/js/765.753e6792.chunk.js",
+    "static/js/937.15642417.chunk.js": "/static/js/937.15642417.chunk.js",
+    "static/js/526.2f8165fc.chunk.js": "/static/js/526.2f8165fc.chunk.js",
+    "static/media/team-leader-teamwork-concept_74855-6671-removebg-preview 1.png": "/static/media/team-leader-teamwork-concept_74855-6671-removebg-preview 1.952dfb95580a7f7a531d.png",
+    "index.html": "/index.html",
+    "main.8007d6fe.css.map": "/static/css/main.8007d6fe.css.map",
+    "main.092ed85e.js.map": "/static/js/main.092ed85e.js.map",
+    "586.f0665f31.chunk.css.map": "/static/css/586.f0665f31.chunk.css.map",
+    "586.143291da.chunk.js.map": "/static/js/586.143291da.chunk.js.map",
+    "787.9f7888fd.chunk.js.map": "/static/js/787.9f7888fd.chunk.js.map",
+    "28.c7f48271.chunk.js.map": "/static/js/28.c7f48271.chunk.js.map",
+    "597.0eac7618.chunk.js.map": "/static/js/597.0eac7618.chunk.js.map",
+    "765.753e6792.chunk.js.map": "/static/js/765.753e6792.chunk.js.map",
+    "937.15642417.chunk.js.map": "/static/js/937.15642417.chunk.js.map",
+    "526.2f8165fc.chunk.js.map": "/static/js/526.2f8165fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8007d6fe.css",
+    "static/js/main.092ed85e.js"
+  ]
+}
